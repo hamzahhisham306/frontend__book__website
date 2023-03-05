@@ -12,3 +12,4 @@
 4. npm start
 5. to test the input search type: الطاقة OR فلسفة 
 6. if you want to go to the details page click on any image of the book
+7. here are some photos
