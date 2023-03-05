@@ -13,3 +13,12 @@
 5. to test the input search type: الطاقة OR فلسفة 
 6. if you want to go to the details page click on any image of the book
 7. here are some photos
+![](https://raw.githubusercontent.com/hamzahhisham306/frontend__book__website/main/src/assets/b1.png)
+
+![](https://raw.githubusercontent.com/hamzahhisham306/frontend__book__website/main/src/assets/b2.png)
+
+![](https://raw.githubusercontent.com/hamzahhisham306/frontend__book__website/main/src/assets/b3.png)
+
+![](https://raw.githubusercontent.com/hamzahhisham306/frontend__book__website/main/src/assets/b4.png)
+
+![](https://raw.githubusercontent.com/hamzahhisham306/frontend__book__website/main/src/assets/b5.png)
