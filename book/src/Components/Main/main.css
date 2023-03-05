@@ -1,0 +1,86 @@
+.main{
+    background-image: url('../../assets/Search\ Results.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.main .main__filter{
+    background-color: #dcdfe4;
+    width: fit-content;
+    margin-top: 20px;
+    
+    height: fit-content;
+
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #33384a
+
+}
+.main .main__filter h3{
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #33384a;
+}
+.main label{
+    margin-right: 5px;
+}
+.main__section{
+    display: flex;
+    
+}
+.books{
+    margin-right: 100px;
+}
+.books .box__image h3{
+    font-size: 26px;
+    margin-top: 10px;
+    padding: 10px;
+line-height: 21px;
+color: #ffffff;
+
+background-color: #147bfc;
+font-weight: bold;
+font-family: "Myriad Arabic";
+text-align: center;
+}
+.books img{
+    width: 200px;
+}
+.book__box{
+    display: flex;
+    margin-top: 50px;
+}
+.book__text{
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.book__text ul{
+    display: flex;
+}
+.book__text ul li{
+margin-right: 10px;
+opacity: 0.467;
+width: 100px;
+height: 40px;
+text-align: center;
+padding-top: 5px;
+border-radius: 20px;
+background-color: #e9ecef;
+}
+.box__filter h3 i{
+    margin-right: 30px;
+    cursor: pointer;
+}
+.lables.active{
+     height: 0;
+     display: none;
+
+}
+.box__filter i{
+    color: #147bfc;
+}
+.box__filter{
+    margin-top: 20px !important;
+}

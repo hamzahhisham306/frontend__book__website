@@ -1,0 +1,77 @@
+
+.bookdeatils ul:first-child{
+    background-color:#eaeef2;
+    display: flex;
+    padding-right: 40px !important;
+    padding: 20px;
+
+}
+.bookdeatils ul li{
+    margin-right: 10px;
+    font-weight: bold;
+}
+.bookdeatils ul i{
+    margin-left: 10px;
+}
+.result{
+    color: rgb(20, 123, 252);;
+}
+
+
+.deatils__book{
+    margin-bottom: 80px;
+    padding: 30px;
+    margin-right: 100px;
+}
+.deatils__book img{
+    width: 300px;
+}
+.deatils__book .book__box{
+    display: flex;
+    justify-content:center;
+}
+.deatils__book .book__text{
+    margin-right: 20px;
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.deatils__book .book__text ul:last-child{
+    display: flex;
+}
+.deatils__book .book__text ul:last-child li{
+margin-right: 10px;
+opacity: 0.467;
+width: 100px;
+height: 40px;
+text-align: center;
+padding-top: 5px;
+border-radius: 20px;
+background-color: #e9ecef;
+}
+.shares{
+    display: flex;
+}
+.shares h3.active{
+    padding: 10px;
+    border-radius: 29px;
+    color: #fff;
+    margin-left: 15px;
+    background-color: #147bfc;
+    -webkit-border-radius: 29px;
+    -moz-border-radius: 29px;
+    -ms-border-radius: 29px;
+    -o-border-radius: 29px;
+}
+.shares h3{
+    margin-left: 15px;
+
+    padding: 10px;
+    border-radius: 29px;
+    color: #147bfc;
+    background-color: #eef6ff;
+}
+.shares i{
+    margin-left: 5px;
+}
